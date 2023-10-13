@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\bin\Debug\MonsterOfTheDark.exe.config
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\bin\Debug\MonsterOfTheDark.exe
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\bin\Debug\MonsterOfTheDark.pdb
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.exe
+C:\Users\ASUS\OneDrive\Documents\Programming\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.pdb
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\bin\Debug\MonsterOfTheDark.exe.config
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\bin\Debug\MonsterOfTheDark.exe
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\bin\Debug\MonsterOfTheDark.pdb
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.csproj.AssemblyReference.cache
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.csproj.SuggestedBindingRedirects.cache
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.csproj.CoreCompileInputs.cache
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.exe
+C:\Users\youne\Downloads\MonsterOfTheDark-20230327T155828Z-001\MonsterOfTheDark\MonsterOfTheDark\obj\Debug\MonsterOfTheDark.pdb
